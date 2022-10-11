@@ -20,7 +20,7 @@
 
 Desafio Técnico da Omnix referente a vaga para Desenvolvedor Front-end Júnior.
 
-- [Projeto desenvolvido]() // Project developed.
+<!-- - [Projeto desenvolvido]() // Project developed. -->
 
 <!-- <p align="center"><img src="./src/_assets/img/project.gif" alt="project"></p> -->
 
