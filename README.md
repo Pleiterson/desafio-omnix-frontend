@@ -1,70 +1,75 @@
-# Getting Started with Create React App
+<!-- Badges session -->
+<p align="center">  
+  <!-- languages -->
+  <img src="https://img.shields.io/github/languages/count/pleiterson/desafio-omnix-frontend?style=social" alt="Linguagens utilizadas">
+  <!-- repo size -->
+  <img src="https://img.shields.io/github/repo-size/Pleiterson/desafio-omnix-frontend?style=social" alt="Tamanho do repositório">
+  <!-- last commit -->
+  <img src="https://img.shields.io/github/last-commit/Pleiterson/desafio-omnix-frontend?style=social" alt="Último commit">
+  <!-- licence MIT -->
+  <img src="https://img.shields.io/github/license/Pleiterson/desafio-omnix-frontend?style=social" alt="Licença MIT">
+</p>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+<!--Banner session-->
+<!-- <p align="center"><img src="./src/_assets/img/banner.png" alt="banner"></p> -->
 
-In the project directory, you can run:
 
-### `npm start`
+<!--About session-->
+<h1 align="center">Desafio Técnico<br>Omnix</h1>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Desafio Técnico da Omnix referente a vaga para Desenvolvedor Front-end Júnior.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- [Projeto desenvolvido]() // Project developed.
 
-### `npm test`
+<!-- <p align="center"><img src="./src/_assets/img/project.gif" alt="project"></p> -->
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<h5>Descrição do Problema</h5>
+Imagine que você foi contratado para desenvolver parte de uma landing page com foco na venda de planos de internet. O sistema de checkout já foi desenvolvido, então você deve desenvolver a página Home e de Ofertas.
+Ao acessar o site, o cliente se depara com uma mensagem de boas vindas e um formulário requisitando seu cep para prosseguir. Você deve utilizar a API da ViaCep para captar os dados do endereço. Ao avançar, é mostrada uma tela com uma mensagem contendo endereço informado, as ofertas dispovíveis para o cliente e um botão fixo no canto inferior direito da tela com a mensagem “Ops, errei meu cep!”, que, ao ser clicado, volta para a página anterior.
 
-### `npm run build`
+##
+<!--LTechnologies used-->
+<h3>👨‍💻 Tecnologias utilizadas</h3>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Aqui deve constar toda as tecnologias utilizadas no projeto com o link de sua documentação, exemplo:
+- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+- [React](https://pt-br.reactjs.org/docs/getting-started.html)
+- [Create React App](https://create-react-app.dev/docs/getting-started/)
+- [Styled Components](https://styled-components.com/docs)
+- [React Router DOM](https://v5.reactrouter.com/web/guides/quick-start)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+##
+<!--License session-->
+<h3>📝 Licença // License </h3>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- Este projeto está sob a licença [MIT](./LICENSE). // This project is under license.
 
-### `npm run eject`
+##
+<!--Contribution-->
+<h3>✨ Contribuição // Contribution </h3>
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+1. Realize um Fork do projeto e abra-o em sua IDE e instale os pacotes. // Fork the project and open it in your IDE and install the packages.
+```bash
+yarn
+# ou // or
+npm install
+```
+2. Crie uma branch com a nova feature e realize as modificações que deseja. // Create a branch with the new feature and make the changes you want
+```bash
+git checkout -b feature/feature
+```
+3. Faça o Commit. // Make the Commit.
+```bash
+git commit -m 'added my features'
+```
+4. Realize o Push no Branch. // Push the Branch.
+```bash
+git push origin feature/feature
+```
+5. Abra um Pull Request. // Open a Pull Request.
+6. Deixe o Follow e a Star! // Leave Follow and Star!
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+##
+<!--Bottom session-->
+<h4 align=center>Made with by <a href="https://pleiterson.vercel.app">Pleiterson Amorim</a></h4>
