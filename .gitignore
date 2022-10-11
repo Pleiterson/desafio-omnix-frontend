@@ -22,6 +22,8 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
+/.vscode
+
 -------------------------
 # - A pasta __mocks__ é responsável por armazenar os mocks para a execução dos testes com Jest.
 # src/__mocks__

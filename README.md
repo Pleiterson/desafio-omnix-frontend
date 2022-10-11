@@ -38,6 +38,8 @@ Aqui deve constar toda as tecnologias utilizadas no projeto com o link de sua do
 - [Create React App](https://create-react-app.dev/docs/getting-started/)
 - [Styled Components](https://styled-components.com/docs)
 - [React Router DOM](https://v5.reactrouter.com/web/guides/quick-start)
+- [React Hook Form](https://react-hook-form.com/)
+- [React Icons](https://react-icons.github.io/react-icons)
 
 ##
 <!--License session-->
