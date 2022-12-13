@@ -18,7 +18,7 @@
 <!--About session-->
 <h1 align="center">Desafio Técnico<br>Omnix</h1>
 
-Desafio Técnico da Omnix Front-end.
+<!-- Desafio Técnico da Omnix Front-end. -->
 
 <!-- - [Projeto desenvolvido]() // Project developed. -->
 
